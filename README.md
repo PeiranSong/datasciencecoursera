@@ -1,2 +1,2 @@
 # datasciencecoursera
-This repo is for project task 2.
+This repo is for project tasks 2 and 3.
